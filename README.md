@@ -12,10 +12,10 @@ barplot_Pan for Figure 3A
 
 
 
-Scatter_plot for 4B and 4F
+Scatter_plot for Figure 4B and Figure 4F
 
 
-Methylation_violin_plot for 4D
+Methylation_violin_plot for Figure 4D
 
 
 Sankey_diagram for Figure 6D
