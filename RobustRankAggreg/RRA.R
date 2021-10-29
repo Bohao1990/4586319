@@ -1,4 +1,3 @@
-setwd("C:\\Users\\Administrator\\Desktop\\LINC00467 BRAC GEO2R\\RRA\\DE-lncRNAs")
 
 ## GSE数据集差异表达基因（按logFC值排序）并为一个list，正序倒序各一个list
 padj=0.05
