@@ -11,6 +11,9 @@ barplot_Pan for Figure 3A
 
 Pan_cnv for Figure 3B and Figure 3C
 
+Stakedplot_Pan for Figure 3D
+
+
 
 Scatter_plot for Figure 4B and Figure 4F
 
@@ -31,3 +34,6 @@ ESplot for Figure 7E
 barplot_Fh for Supplementary Figure 3A
 
 Pan_cnv for Supplementary Figure 3B and Supplementary Figure 3C
+
+Stakedplot_Fh for Supplementary Figure 3E
+
