@@ -1,0 +1,5 @@
+Cancer Type	Alteration Frequency	
+Invasive Lobular Carcinoma	17.44 	30/142
+Mixed Ductal and Lobular Carcinoma	11.11 	3/27
+Invasive Ductal Carcinoma	10.07	73/725
+Invasive Mixed Mucinous Carcinoma	7.69 	1/13
