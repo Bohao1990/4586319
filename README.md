@@ -30,4 +30,4 @@ ESplot for Figure 7E
 
 barplot_Fh for Supplementary Figure 3A
 
-Pan_cnv for Supplementary Figure 3B and Figure 3C
+Pan_cnv for Supplementary Figure 3B and Supplementary Figure 3C
