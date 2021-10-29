@@ -13,6 +13,8 @@ Pan_cnv for Figure 3B and Figure 3C
 
 Stakedplot_Pan for Figure 3D
 
+survival_Pan for Figure 3E,3F,3G,3H
+
 boxplot_cell for Figure 3L
 
 Scatter_plot for Figure 4B and Figure 4F
