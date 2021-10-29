@@ -1,0 +1,9 @@
+T stage	Percent	Group	count	Ratio
+T1	15.50 	Altered	18	18/109
+T2	58.72 	Altered	64	64/109
+T3	17.43	Altered	19	19/109
+T4	7.33 	Altered	8	8/109
+T1	27.29 	Unaltered	 233	233/852
+T2	57.73 	Unaltered	 493	493/852
+T3	11.71	Unaltered	 100 	100/852
+T4	2.93	Unaltered	 25 	25/852
