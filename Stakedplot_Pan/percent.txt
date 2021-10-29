@@ -1,0 +1,11 @@
+Stage	Percent	Group	count	Ratio
+I	10.53	Altered	8	8/76
+II	46.05	Altered	35	35/76
+III	38.15	Altered	29	29/76
+IV	2.63	Altered	2	2/76
+X	2.63	Altered	2	2/76
+I	17.38	Unaltered	159	159/915
+II	59.02	Unaltered	540	540/915
+III	20.66	Unaltered	189	189/915
+IV	1.75	Unaltered	16	16/915
+X	1.2	Unaltered	11	11/915
