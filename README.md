@@ -9,7 +9,7 @@ barplot_cell for Figure 1D
 
 barplot_Pan for Figure 3A
 
-
+Pan_cnv for Figure 3B and Figure 3C
 
 
 Scatter_plot for Figure 4B and Figure 4F
