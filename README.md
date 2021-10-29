@@ -37,5 +37,7 @@ barplot_Fh for Supplementary Figure 3A
 
 Pan_cnv for Supplementary Figure 3B and Supplementary Figure 3C
 
+survival_Fh for Supplementary Figure 3D
+
 Stakedplot_Fh for Supplementary Figure 3E
 
