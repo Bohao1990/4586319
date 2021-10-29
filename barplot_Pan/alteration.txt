@@ -1,0 +1,4 @@
+Cancer Type	Alteration Frequency	
+Invasive Lobular Carcinoma	13.58	22/162
+Invasive Carcinoma	6.85	5/73
+Invasive Ductal Carcinoma	6.61	49/741
