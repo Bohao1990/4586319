@@ -1,0 +1,5 @@
+TGFB2	Percent	Group	count	Ratio
+Amp	85.53	Altered	65	65/76
+Non-Amp	14.47	Altered	11	11/76
+Amp	1.41	Unaltered	13	13/922
+Non-Amp	98.59	Unaltered	909	909/922
