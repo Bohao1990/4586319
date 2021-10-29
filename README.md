@@ -3,4 +3,6 @@
 
 RobustRankAggreg for Figure 1B
 
-barplot_cell for 1D
+Boxplot_microarray for Figure 1C
+
+barplot_cell for Figure 1D
