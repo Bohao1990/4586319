@@ -21,7 +21,7 @@ Scatter_plot for Figure 4B and Figure 4F
 
 Methylation_violin_plot for Figure 4D
 
-WGCNA for Figure 6A and Supplementary Figure 4A
+WGCNA for Figure 6A and Supplementary Figure 4A (Since GitHub limits the size of a single file, we split the data into 9 parts)
 
 Sankey_diagram for Figure 6D
 
